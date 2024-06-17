@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 252, 252);
+    color: rgb(0, 0, 0);
+}
+
+header {
+font-family: Arial, Helvetica, sans-serif;
+border: 10cm;  
+}
+a.Matteo{
+color: brown;
+}
+a.My_github{
+color: hotpink;
+}
