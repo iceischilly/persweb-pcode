@@ -12,4 +12,33 @@ color: brown;
 }
 a.My_github{
 color: hotpink;
+
 }
+.line{
+    border-bottom: 1px solid black;
+}
+.box{ border: 2px solid grey;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+.image{ width: 8rem;
+ }
+img{width: 100%;
+
+}
+.image1{ width: 8rem;}
+.image2{width: 8rem;}
+.part2{display: flex;
+       justify-content: center; 
+       flex-direction: column;
+       align-items: center;
+}
+.part1{display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    
+}
+.image4{width: 8rem;}
