@@ -1,8 +1,0 @@
-userinput ask if the alien is hungry tomake sure they want food.
-    If no
-        end
-    else
-        display Take the alien to the kitchen so you can get the food.
-        display the cabinet on the wall and grab a bowl to but the food in.
-        display insturctions to Grab the box labled cinnamon toast crunch.
-        end                                           
